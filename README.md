@@ -3,7 +3,7 @@
 
 
 * 🔞歳: 16
-* 💫興味：software development / motorcycling
+* 💫興味：software development / watching anime
 * 💻好きなプログラミング言語：node.js!
 
 
