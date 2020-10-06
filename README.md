@@ -10,3 +10,5 @@
 🌐 私のウェブサイトをチェックしてください：
 
 [6yte.wtf](https://6yte.wtf/)
+
+[![wtf6yte's github stats](https://github-readme-stats.vercel.app/api?username=wtf6yte)](https://twitter.com/wtf6yte)
