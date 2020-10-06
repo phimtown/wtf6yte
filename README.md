@@ -12,3 +12,5 @@
 [6yte.wtf](https://6yte.wtf/)
 
 [![wtf6yte's github stats](https://github-readme-stats.vercel.app/api?username=wtf6yte&show_icons=true&theme=dracula)](https://twitter.com/wtf6yte)
+
+![](https://komarev.com/ghpvc/?username=wtf6yte&color=DD6387)
