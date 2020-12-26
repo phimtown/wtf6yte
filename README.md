@@ -9,7 +9,7 @@
 
 🌐 私のウェブサイトをチェックしてください：
 
-[6yte.wtf](https://6yte.wtf/)
+[bytewithasix.cc](https://bytewithasix.cc/)
 
 [![wtf6yte's github stats](https://github-readme-stats.vercel.app/api?username=wtf6yte&show_icons=true&theme=dracula)](https://twitter.com/wtf6yte)
 
