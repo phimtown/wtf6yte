@@ -2,8 +2,8 @@
 
 
 
-* 🔞歳: 16
-* 💫興味：web development / watching anime
+* 🔞歳: 17
+* 💫興味：web development / fdm printing / building keyboards / art
 * 💻好きなプログラミング言語：node.js!
 
 
